@@ -2,3 +2,4 @@
 - /var/home/a/code/rocm-systems-audit: 216 commits [a718a19cf1 116fde1785 27f85500f8 ea31a0bf18 8e7ebfbdc7 566f674eee 8c7743aa0a 63e2a39523 e3998b06b6 f03eebf563 … (+206)]
 - /var/home/a/code/amd/ROCm__llvm-project: 178 commits [5e7f7a496ccb 6986f125c901 49f55f499122 e700f157026b 95557e32945a 9a0000b15022 5fcd39acd5fe 3361e40c3288 6fc4e90a064d 7c863ecf3fb7 … (+168)]
 - /var/home/a/code/amd/ROCm__pytorch: 59 commits [a344069f2ab af829c0dade 3869aa115b1 47eb34b7ac4 08200280ce3 ad7a57262c8 711a7758788 e9a688f02ee e69aaaf45a8 fd8f368d31d … (+49)]
+- /var/home/a/code/amd/awdemos/awdemos: 53 commits [79608f46 817b32a2 eea35058 321daaf9 89b9b40f ffea7060 658340b8 1b132070 b1b5ed60 687b3439 … (+43)]
