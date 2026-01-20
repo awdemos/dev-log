@@ -5,3 +5,4 @@
 - /var/home/a/code/opencode-monorepo: 154 commits [0f979bb87 a18ae2c8b c9ea96680 74bd52e8a 9dc95c4c6 b93f33eaa 34d473c0f be9a0bfee cbe20d22d 3723e1b8d … (+144)]
 - /var/home/a/code/amd/ROCm__rocm-systems: 50 commits [6a84a00208 50e00d1b94 05a6d017c6 55aab4d62e 0496586829 520f309bb1 4a32ec2501 bb47eee7cc fa366ac03f 48d1530205 … (+40)]
 - /var/home/a/code/rocm-systems-audit: 50 commits [6a84a00208 50e00d1b94 05a6d017c6 55aab4d62e 0496586829 520f309bb1 4a32ec2501 bb47eee7cc fa366ac03f 48d1530205 … (+40)]
+- /var/home/a/code/amd/ROCm__rocm-examples: 44 commits [1ff5c2b7 ca360e37 428d5ba2 8f5d78e4 5fc3d375 1d198583 02aab546 06a5e1d4 efc80555 8b0dfed5 … (+34)]
