@@ -9,3 +9,4 @@
 - /var/home/a/code/zed: 48 commits [6daa541e77 9743fe7dfd d60b2911d9 717ea9e998 2868c50da9 74179fac7c 7eca6a9527 ee9191ecd2 d2aa2e0c5a d858ac5013 … (+38)]
 - /var/home/a/code/amd/ROCm__tensorflow-upstream: 41 commits [7b9ddabb740 129807bfad4 b3736e03966 266335c9569 237ce141c9a 864be71a508 09a97fb87df 930a44690f3 4bbf4fc9c53 0297e6a2216 … (+31)]
 - /var/home/a/code/amd/ROCm__pytorch: 39 commits [c9319447e91 e6e402dc069 1829f52ffc7 5507ee6f484 c57745e6222 6ff1fb7a220 42286b6b94b 9639cac1b78 fa026b0e947 ff4f64b994a … (+29)]
+- /var/home/a/code/amd/ROCm__jax: 34 commits [540df65434 4a374b4123 7ecbc030ee fc641811fb ab7aecd726 80ebaef82a 1eed117148 5abf880a82 9b31776657 81640be3dd … (+24)]
