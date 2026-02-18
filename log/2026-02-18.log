@@ -11,3 +11,4 @@
 - /var/home/a/code/rocm-systems-audit: 31 commits [b763fad1e5 13c4878efe f7f3cee6a6 13ec7825a9 c760ae7ea3 49699865c5 0957b2c491 50df09453f d95d4fe63d 749bb2cf82 … (+21)]
 - /var/home/a/code/tensorzero: 29 commits [031ed12c2 2f1fb6b22 d052e11d1 f0fa3e052 446e58e9c 6cf01c14b 012216358 bcdcc1473 b513080f2 2131fc82c … (+19)]
 - /var/home/a/code/cisco-repos/aicr: 23 commits [ca16886f 5be5a939 54eceaa1 0c435fb6 177e92eb 9a3cd3fa 4962b9bf 60a2adc5 2d9c2999 88e6190f … (+13)]
+- /var/home/a/code/amd/ROCm__jax: 21 commits [e50a76c40b c51913c54b 3208104446 e01608d35b 74aab53f28 27274db2d3 42c458cc31 796d3bf8b1 ade6b64e9c e69ef7b5a0 … (+11)]
