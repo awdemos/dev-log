@@ -10,3 +10,4 @@
 - /var/home/a/code/amd/ROCm__gfx950-gluon-tutorials: 48 commits [62624bf 9979726 3cb529c 5d19f97 fa8d5ae 2e273aa 3f6f8c9 bef62b1 e2e0dba 0d1303c … (+38)]
 - /var/home/a/code/zed: 45 commits [d896bf7c9d 42202edee9 ee636bc71b 1bfd77b398 c06aab84c0 94b9628d42 2f9350bb6b 41c007f9ee 90d8c26796 be26e1a27f … (+35)]
 - /var/home/a/code/amd/ROCm__tensorflow-upstream: 37 commits [c7934f14e71 135ae354b27 e1f15bb39ce 210d43bb089 769472645e5 168679e2b4b c658d8d2498 a94b7487659 e9bf8cbf4fc 4a16b96ad80 … (+27)]
+- /var/home/a/code/amd/ROCm__jax: 31 commits [8fdc565daf 3d0ed0f857 bb04e7a6f4 11a3faf277 575ce86e36 5f99745e3c 5c11726b44 6e45cca43b fe99777568 1da5af4415 … (+21)]
