@@ -15,3 +15,4 @@
 - /var/home/a/code/cisco-repos/awdemos: 37 commits [8feac063 4eccb870 034f6d47 7725c9a4 7ced2dbb f20f51fe b4c8efbf 1e8a20a9 1970efcc 6225569d … (+27)]
 - /var/home/a/code/amd/ROCm__rocm-systems: 36 commits [615aab95ed 8ffad41b24 042d76a626 555db59b2a 3affa2c7a3 ba0bf0f3db c5cef9b18e 241ce7ba83 8a690f482e fe1cbb0812 … (+26)]
 - /var/home/a/code/rocm-systems-audit: 36 commits [615aab95ed 8ffad41b24 042d76a626 555db59b2a 3affa2c7a3 ba0bf0f3db c5cef9b18e 241ce7ba83 8a690f482e fe1cbb0812 … (+26)]
+- /var/home/a/code/amd/ROCm__rocm-spack-packages: 30 commits [8cf9f087fd a251c075e3 ffb7f91139 7369bae32c df841d23f9 1b9a16c4d9 418204ad19 7711692108 9b5e98979a 295ae02d00 … (+20)]
