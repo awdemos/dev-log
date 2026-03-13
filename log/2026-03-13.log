@@ -5,3 +5,4 @@
 - /var/home/a/code/cisco-repos/awdemos: 69 commits [01a173c4 66adf20c f18b1ecc 0097169e 60bc1f73 96ce37d2 19611970 b8a147a0 8736c3ec 338418aa … (+59)]
 - /var/home/a/code/amd/ROCm__tensorflow-upstream: 67 commits [76991b95cd4 f37813b5a30 8c1ef4d9bbc 52f89c25622 57321d7752f e359a4be53d 4a25a9f58c6 f0a8cd5734a 727d1632360 f718d6ba2ed … (+57)]
 - /var/home/a/code/amd/ROCm__pytorch: 58 commits [088c5a726a0 8fa3448595d 08f1f7f921d 93d8e824860 aa8ec9c2e11 838f3552346 0eb2364586d edf1a92f226 c658c6722ec a7322a9205d … (+48)]
+- /var/home/a/code/amd/ROCm__jax: 46 commits [ea4b2e7e41 a767ad386e f5676668f0 2d5a40fe46 eb60023a0a af6ae0886b 595b48ce3b d0a46721e3 65331f3441 51b8178ab3 … (+36)]
