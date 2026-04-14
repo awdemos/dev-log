@@ -17,3 +17,4 @@
 - /var/home/a/code/zed: 37 commits [e613b2c9d3 848c3da99e 6467d4f9af e8f097f8ee f49d9324db a750316275 d367d3fbbc 652f1fa3b0 5d15e010ae bf0fcfbbac … (+27)]
 - /var/home/a/code/amd/ROCm__rocm-spack-packages: 34 commits [947617b5eb 537c4e3608 7ca3482ab8 68e01d7638 590ace5f55 d00f235396 09df652bb5 a3dd63d343 2e1eb8a262 8dcfdc4129 … (+24)]
 - /var/home/a/code/amd/ROCm__ROCdbgapi: 27 commits [073c56f d8b4a9b 56d9f63 ea02ce8 0b44f04 cb52dd9 b69c743 f6b481c 13201bf 4054d47 … (+17)]
+- /var/home/a/code/amd/awdemos/ROCdbgapi: 27 commits [073c56f d8b4a9b 56d9f63 ea02ce8 0b44f04 cb52dd9 b69c743 f6b481c 13201bf 4054d47 … (+17)]
