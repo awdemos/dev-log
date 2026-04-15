@@ -9,3 +9,4 @@
 - /var/home/a/code/amd/ROCm__hrx-system: 76 commits [7ef36d8a5 ed7a4dad0 e9cf922ed 869edd467 20d595afc cc2f582be 8da31336c 7cb9fb2f5 51d817cd5 999dce4e7 … (+66)]
 - /var/home/a/code/amd/ROCm__pytorch: 65 commits [5148b8c1f21 afff228b948 96c328d8b28 afabcbabb5c c42a8614552 d5268cd31e9 ed79876f289 92502cfa270 b686fef864f 5167985aabd … (+55)]
 - /var/home/a/code/amd/ROCm__tensorflow-upstream: 57 commits [361352f4e5c 9a9bac58bb1 0f64833d8f1 cb165b62726 5b042d04603 f2c9d939fb0 fcf4c02a3a5 c4a8ec844c7 bf8c4286737 0de6376ea38 … (+47)]
+- /var/home/a/code/amd/ROCm__jax: 47 commits [356e0b7594 a33ed614c5 79e8ef9370 83e0ac50f3 af04210c59 42342505e0 f6d957c27e d9d5d98ff9 663efe75aa 4da304528a … (+37)]
