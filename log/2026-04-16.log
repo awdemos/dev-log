@@ -13,3 +13,4 @@
 - /var/home/a/code/zed: 55 commits [adfcb45abe 302e591e3d 44c6ed117f 9fbe317588 e92a40a9d8 f9ca74e68d 3dfbfc8fff edb0211d1d 626963b5ae 56370bb5f8 … (+45)]
 - /var/home/a/code/amd/ROCm__jax: 44 commits [6a83ec8b5a 33d0ba4385 b36b7e1e95 b3362179c9 fcd7e80c0a 71dc43adaf d211db6cdb 12dc6d3bfb fb4905e9cf a66227976e … (+34)]
 - /var/home/a/code/amd/ROCm__rocm-systems: 29 commits [4bff83ab88 1a9ff0902e 645f8072aa 123d55f593 01970c8883 1f485f643b ab28fd48d6 8cb6dbc8a1 0c626af92a 92b7431876 … (+19)]
+- /var/home/a/code/rocm-systems-audit: 29 commits [4bff83ab88 1a9ff0902e 645f8072aa 123d55f593 01970c8883 1f485f643b ab28fd48d6 8cb6dbc8a1 0c626af92a 92b7431876 … (+19)]
