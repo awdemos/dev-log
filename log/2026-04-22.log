@@ -7,3 +7,4 @@
 - /var/home/a/code/amd/ROCm__jax: 42 commits [c2495df787 a91afdbc43 62e4477030 882d63d9d7 cfd620739d a46dc5f72a 5aeb259cdb 8677c149ea 4927200cfa 868098c93c … (+32)]
 - /var/home/a/code/amd/ROCm__rocm-systems: 35 commits [fa68d2078b 7321d44118 4a65e8d0ef 1933fdd636 4a47fe9428 c74978d8d5 8dad3a6daf 4c8dc1a07a 08cec46e16 ef7520eccd … (+25)]
 - /var/home/a/code/rocm-systems-audit: 35 commits [fa68d2078b 7321d44118 4a65e8d0ef 1933fdd636 4a47fe9428 c74978d8d5 8dad3a6daf 4c8dc1a07a 08cec46e16 ef7520eccd … (+25)]
+- /var/home/a/code/tensorzero: 25 commits [3715b6b70 6df89e6c9 b271af930 2217ac67f cca2e85ba 4295b1217 c075879f2 ce67c40c5 f6ac306e7 1cc3f8f89 … (+15)]
