@@ -6,3 +6,4 @@
 - /var/home/a/code/amd/ROCm__pytorch: 63 commits [db6ac9e9606 37c7bbc2d61 3155d703a48 8435db341a0 a556db98173 4cb191062ea b55d1a5bbd7 be2f0fbcc63 a2b0fbdbd46 1adb7c2a2f7 … (+53)]
 - /var/home/a/code/amd/ROCm__rocm-systems: 62 commits [3e2fd71f1d a13aac3b00 21449e240a 983cd37878 9d6350e2d4 f0acb0c6e8 624e50b85c 52b46136af 098fbcf718 e759e4ad79 … (+52)]
 - /var/home/a/code/rocm-systems-audit: 62 commits [3e2fd71f1d a13aac3b00 21449e240a 983cd37878 9d6350e2d4 f0acb0c6e8 624e50b85c 52b46136af 098fbcf718 e759e4ad79 … (+52)]
+- /var/home/a/code/amd/ROCm__hrx-system: 58 commits [16504c3b9 1a946188b ffd0f6814 4ff94c953 d4ab59e6a 5cc0dd1be c8cfafa4f 71499a263 261f1baa2 b88d46c14 … (+48)]
