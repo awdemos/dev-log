@@ -14,3 +14,4 @@
 - /var/home/a/code/rocm-systems-audit: 40 commits [1d08e6539b 7e48595334 aedf3780c2 05d2704bbf 44c8aebeed 7021d7bd2f 71aeed5d0e 8d0af1dcb5 5f72ab091c c9d0aa3e7c … (+30)]
 - /var/home/a/code/amd/ROCm__jax: 37 commits [2db21711c9 20276f7fa4 74ac754461 ebbff8ec57 174d5d11e2 a2b6afdcbc fc32223a83 ccd2528032 46aecfabfc 6e9b7baafe … (+27)]
 - /var/home/a/code/amd/ROCm__hrx-system: 31 commits [9ca380bf0 23bbbb104 30889da9e 82b96fdae 3c36ddc92 a44a08579 ebf44a775 befb4a9e1 d8a182019 f5329b9f5 … (+21)]
+- /var/home/a/code/amd/amd__openssl: 25 commits [26c5742393 01fba667c2 da2fa6d621 f57143fdf8 39ce9160c8 1068048e40 26a269fe00 428bdb9c60 a842afd126 5aeea6f929 … (+15)]
