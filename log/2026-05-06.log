@@ -14,3 +14,4 @@
 - /var/home/a/code/opencode-monorepo: 31 commits [0b702704a b2e3dc87e 233fc5b91 a4ab1408e e41843eaf bf979413f 38b0cdc14 344ccc647 b9b854bf9 d9c18381a … (+21)]
 - /var/home/a/code/amd/ROCm__rocm-spack-packages: 26 commits [5a6207f876 c222b08160 c29bb396be 03a4b48dc3 9039f8c6c6 81f6381571 d07e1fc260 cdb65da17b b9cfce9b63 3152dfb8ff … (+16)]
 - /var/home/a/code/neovim: 23 commits [9174157f74 7b00f58d84 dda30fdfbb 27e7aba982 ab69f81c16 d7ef55e881 2b7a00746d c3f803c3b6 0ea720f281 b8af8d7672 … (+13)]
+- /var/home/a/code/amd/ROCm__jax: 20 commits [886cab9bdf aafe16fcd0 eaafdff4bc e4b57cd16a 2176d4a828 653c39c641 dca011eb23 ca68303c68 79426870b0 6b7ead69f6 … (+10)]
