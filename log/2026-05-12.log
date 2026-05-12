@@ -15,3 +15,4 @@
 - /var/home/a/code/amd/ROCm__rocm-spack-packages: 31 commits [8cd9959e3f 8997f35ab9 96a5423179 855e1128e6 45b0539c31 e73971e333 825103cdc2 87f0f4c9fa 741952b07d 0659e9aa67 … (+21)]
 - /var/home/a/code/amd/ROCm__jax: 28 commits [a574df9ce1 50e3d75993 cf731a1754 0ed2ac8397 e6096e31f3 e9c29d2f51 8e1a04c640 05ed820818 2348aef35c bfafe3c142 … (+18)]
 - /var/home/a/code/amd/amd__tock: 23 commits [801d2f70d 02e19c15f ae8deba18 a21277204 7c2ca5963 da345c7d3 3046b8169 a46ecb28a accd09db3 e55295721 … (+13)]
+- /var/home/a/code/amd/awdemos/tock: 23 commits [801d2f70d 02e19c15f ae8deba18 a21277204 7c2ca5963 da345c7d3 3046b8169 a46ecb28a accd09db3 e55295721 … (+13)]
