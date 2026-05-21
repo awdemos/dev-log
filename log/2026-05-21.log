@@ -9,3 +9,4 @@
 - /var/home/a/code/rocm-systems-audit: 45 commits [470c276449 ec14189736 f71d5a01aa 25e629a372 5bf2ea358f 4a52e5c7f3 1fa716c10e ea36a03423 be68257dbb cb10e88c2b … (+35)]
 - /var/home/a/.hermes/hermes-agent: 41 commits [d3f62c6913 c769be344a 372e9a18cd b5c6d9ac08 f6f25b9449 e77f1ed5f7 4c61fb6cf6 4e2c66a098 eb51fb6f50 4a2fa77c15 … (+31)]
 - /var/home/a/code/amd/ROCm__spur: 30 commits [af96542 c73f67e 5be6570 289047d de1b068 fab8a07 e2a2274 f987226 665cdc1 de96532 … (+20)]
+- /var/home/a/code/amd/ROCm__hrx-system: 29 commits [2080c0059 e45d49614 801b0ebf5 9420ca304 fa1552470 dfcb46ddc 2e2a0b67b 0996f74c3 096b7921e 69e23f5cc … (+19)]
