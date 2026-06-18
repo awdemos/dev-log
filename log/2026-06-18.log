@@ -1,3 +1,4 @@
 - /var/home/a/code/amd/ROCm__llvm-project: 147 commits [b65d5100d712 ed287c064db0 79349e509ab5 05b532804dd1 54ce8fc400f5 229722cfc1e0 4da60b8a877d 4a1d8bbca2e4 9fc458a1d95b cc16c2cabacf … (+137)]
 - /var/home/a/code/amd/amd__tock: 119 commits [671303ab6 7caac250e 9958f01f6 14a4bcaba 42328cd62 2ea89e6d7 002ff7c81 b78da11c4 2a22f8191 386cee45a … (+109)]
 - /var/home/a/code/amd/awdemos/tock: 119 commits [671303ab6 7caac250e 9958f01f6 14a4bcaba 42328cd62 2ea89e6d7 002ff7c81 b78da11c4 2a22f8191 386cee45a … (+109)]
+- /var/home/a/.hermes/hermes-agent: 102 commits [c02192ff6a e4452ffb8a 620fd59b8e 28d887ca18 d06104a9ee 8568988b01 e48554a3e0 62c71ebd8f 1d2e359678 9ae98e07a7 … (+92)]
