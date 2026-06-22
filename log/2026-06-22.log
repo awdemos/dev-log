@@ -9,3 +9,4 @@
 - /var/home/a/code/opencode-monorepo: 46 commits [ed75ce9ec af14fefc9 4a710e467 d2c866bf7 d29f5eba9 fbf889db8 ef2357915 975b1132f cd97de739 23fd5907b … (+36)]
 - /var/home/a/code/amd/ROCm__pytorch: 45 commits [f9d9256a773 71fb842c7ef 966c6a75f17 4a2074d6edf 19d05b69bb4 c09f4554c08 5d25df6c6a1 6cec99cb1b1 8d0dc209482 cd165c721ad … (+35)]
 - /var/home/a/code/amd/ROCm__jax: 42 commits [219cdfa1db 5d2ab88a6e c621b9023d 58a89ea39e 82e8836ad5 73cdfc6b36 0fc723b736 0ae5151c7e d9a35f2cbc 8f360d5a13 … (+32)]
+- /var/home/a/code/deepseek-harness: 39 commits [78d60366ec b3d40d427e c7a197fb5f c4ba1bd65a 8dc211beed 4e87a533a7 34f6f28716 083af62785 8723186398 e45053f0f5 … (+29)]
