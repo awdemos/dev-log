@@ -2,3 +2,4 @@
 - /var/home/a/.hermes/hermes-agent: 102 commits [bb7ff7dc30 2a10b8384a 7daa6d83fc 48a8f84169 d0af7fc954 cb17a9efb2 ba9e3a491b 672ea1f894 833710d33e 116331dd3f … (+92)]
 - /var/home/a/code/amd/ROCm__rocm-systems: 72 commits [49a23410ab a620f95a73 6933753a64 dda8ac7667 8b2f7145a3 4277894003 30a7a932a1 05e4d18bc3 a2dc4fab38 8fa66e4078 … (+62)]
 - /var/home/a/code/rocm-systems-audit: 72 commits [49a23410ab a620f95a73 6933753a64 dda8ac7667 8b2f7145a3 4277894003 30a7a932a1 05e4d18bc3 a2dc4fab38 8fa66e4078 … (+62)]
+- /var/home/a/code/amd/awdemos/awdemos: 59 commits [8b5b681c 50c4ce2f 9ac0b48e c4567506 24cdf7bc c50c15bc 9bfe597f d09af6b8 ee4ea931 d7c21fc1 … (+49)]
