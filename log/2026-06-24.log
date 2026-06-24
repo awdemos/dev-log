@@ -10,3 +10,4 @@
 - /var/home/a/code/opencode-monorepo: 68 commits [cdd67cf30 56a37c364 3730125f8 9bb537020 25c6abc31 f4afb2c0a bba74985a e9ee2129e 68260ea6c 49ea8a945 … (+58)]
 - /var/home/a/code/amd/ROCm__jax: 31 commits [776018ae0b 80a7ffd2c1 976d768c2f f7e43507a1 4574ab8e0d bca7b551b1 c95fe37e53 73f67b4907 8fde3f3846 c36456a817 … (+21)]
 - /var/home/a/code/amd/amd__tock: 29 commits [383eded6d ca72bfc38 8cca8206e 73825a97a 3d50afd14 09c241ccf 93ed6bf28 edfcee734 e451ad0f4 b3ea57b42 … (+19)]
+- /var/home/a/code/amd/awdemos/tock: 29 commits [383eded6d ca72bfc38 8cca8206e 73825a97a 3d50afd14 09c241ccf 93ed6bf28 edfcee734 e451ad0f4 b3ea57b42 … (+19)]
