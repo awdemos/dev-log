@@ -7,3 +7,4 @@
 - /var/home/a/code/amd/ROCm__pytorch: 50 commits [0e9f4621713 7227daa7f39 37345e7f30e 333ac9083d2 be878749ff9 b2f3c0d5520 47639552350 28310095d70 530f5443d40 ba6f970dedf … (+40)]
 - /var/home/a/code/kvcdn-label: 37 commits [dd13e06 157b41b d2aafcc 229f764 7af6241 42ddb23 c662acc e777b75 0987980 1dec84a … (+27)]
 - /var/home/a/code/amd/ROCm__jax: 30 commits [060c1f3833 d18379a22f 64cb80d9ce bbd2b24619 da78585ead 51a20c5f6a 6a19c8b5ae 0c976f84cf 2a32073849 526a94c2fe … (+20)]
+- /var/home/a/code/amd/awdemos/awdemos: 27 commits [6b77c9f7 5518ab33 466f7e70 ec5a9cbf b464cbbe 276af73c 6876f90c 3d44d336 c7e6c18d 06ab2452 … (+17)]
