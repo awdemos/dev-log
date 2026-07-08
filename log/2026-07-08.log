@@ -12,3 +12,4 @@
 - /var/home/a/code/rocm-systems-audit: 42 commits [d6f0e0ddd7 865f473e02 c0c764dca3 71a922ebf9 f9e27347e4 5fbabb24f1 452744f350 fcfcfbdd72 b5ff2d25a0 aef3cfe171 … (+32)]
 - /var/home/a/.linuxbrew/Homebrew: 29 commits [38ff3626da ad20c5f75d c5fee6feb5 f23e10bf80 b5bda5a6ba a65b686360 00d8ae2a0e e9f70963f5 2e7d998da5 93ec18dcf7 … (+19)]
 - /var/home/a/code/amd/amd__openssl: 29 commits [38c7ace6c1 a4ee6965a0 a17cd7691a 0cb923d4ba ea902d80b3 b24c43f9b8 4be956b9cd 4d32206641 4e2e6f4174 11889aa905 … (+19)]
+- /var/home/a/code/amd/ROCm__rocm-spack-packages: 26 commits [d095a70b63 e28b1fbc2f 3e344c515e 01bec67036 a72b901c2e 219908983a 7700a64fb2 f1ae8de2d4 04422dc5ca 7b00785b2c … (+16)]
