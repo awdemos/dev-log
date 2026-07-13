@@ -13,3 +13,4 @@
 - /var/home/a/code/amd/ROCm__jax: 31 commits [f57d906bd2 0fce55552f 322cd628cc beacee4c64 8d5a7b2683 6dcdbac9d3 dfeec5859c 6b606dd6ae aa5a46afb3 719d18dafd … (+21)]
 - /var/home/a/code/amd/amd__openssl: 27 commits [626ff8fd93 27caecd416 a248ec771e 6736bd2cb6 95f95b59dd d6c49df039 283f6bd6bf 28071a8c01 0321c2919c d8a7e8eec7 … (+17)]
 - /var/home/a/code/amd/amd__tock: 27 commits [2c749d7d1 c8969d5c4 ed560fb24 164d9a8a3 869b64938 a2951413a dd59178eb 054162505 9fb87d7ad 5c9ebfe7f … (+17)]
+- /var/home/a/code/amd/awdemos/tock: 27 commits [2c749d7d1 c8969d5c4 ed560fb24 164d9a8a3 869b64938 a2951413a dd59178eb 054162505 9fb87d7ad 5c9ebfe7f … (+17)]
