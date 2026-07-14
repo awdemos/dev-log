@@ -16,3 +16,4 @@
 - /var/home/a/code/nvidia-gpu-viz-unified: 21 commits [7895f6d 6f12978 f250973 734d850 5348ef7 8b6f292 48876af cc30401 2a36c5b 310d349 … (+11)]
 - /var/home/a/code/vibecodingagency: 21 commits [f65528ec 170187ed 963918f9 63f67c50 85e7975c f1585f8a 11ee115b d6c0aa31 7c2bb956 0a992771 … (+11)]
 - /var/home/a/code/amd/ROCm__rocm-spack-packages: 19 commits [d8f66bab9b b90d24bbb4 6420b30399 f964e5f57c 593b4b0844 cb64d6a331 331fc1e9cf 577c7862de 534b70fc03 8610e4bec9 … (+9)]
+- /var/home/a/code/amd/ROCm__TheRock: 17 commits [710812f49 8652235b4 bafd4da8f 11d9fec3a 8fd6cf5ad 525d42aed 802f1c98a 59d3a3d90 bb1e3133b 8c6c3cede … (+7)]
