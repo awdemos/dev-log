@@ -13,3 +13,4 @@
 - /var/home/a/.linuxbrew/Homebrew: 17 commits [a492248d9e 6c958a5864 ec55b2e3f8 e8b8e2c478 04cfe2a760 ee2b997909 e88fd7d3ad 3400aa0c54 7af346444e 4b327b51eb … (+7)]
 - /var/home/a/code/amd/ROCm/aiter: 17 commits [323527d93 e708f6c15 3529f12f2 ea3f12d0f b5c5912cb bcf5872d0 c6ce60c74 3001cb26d 7df5fb13c e93812ae4 … (+7)]
 - /var/home/a/code/amd/ROCm__aiter: 17 commits [323527d93 e708f6c15 3529f12f2 ea3f12d0f b5c5912cb bcf5872d0 c6ce60c74 3001cb26d 7df5fb13c e93812ae4 … (+7)]
+- /var/home/a/code/amd/ROCm__rocm-spack-packages: 15 commits [63c38504a1 9287c9d352 f4d65dddd2 8e4ed6c8d9 33d01efa54 7e581611d8 d342cee94f 59ed29e006 ae0ab23e4b 868a4e0b78 … (+5)]
