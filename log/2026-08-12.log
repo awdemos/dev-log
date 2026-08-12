@@ -8,3 +8,4 @@
 - /var/home/a/code/rocm-systems-audit: 33 commits [180b24cd72 0a7e173314 20bb64fb32 474fca94bb a6c3709f6b 41e1945ceb d48ce7455b e8c33f2c43 79157797a3 8d70fb65d6 … (+23)]
 - /var/home/a/code/amd/ROCm__rocm-cli: 28 commits [37a3b63 40370a2 cbf8fe7 f8e9629 db2c6ab aa6da98 c6b5bb5 8d564dd 9291ecd 12ae31e … (+18)]
 - /var/home/a/code/amd/awdemos/rocm-cli: 28 commits [37a3b63 40370a2 cbf8fe7 f8e9629 db2c6ab aa6da98 c6b5bb5 8d564dd 9291ecd 12ae31e … (+18)]
+- /var/home/a/code/amd/ROCm__jax: 25 commits [cfedfdcb9d b088d90b6c 8061f6f7c1 e273139446 a5369aa87c 29c4ce3c52 586cc7c08d 3d9ae9a977 d33b8063d6 3f45d17575 … (+15)]
