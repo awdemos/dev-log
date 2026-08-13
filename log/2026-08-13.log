@@ -14,3 +14,4 @@
 - /var/home/a/.linuxbrew/Homebrew: 15 commits [cc86509966 6c7aea9f65 c3c97bb4fb a88f0fe48a 0fb08b0c48 48af3d9334 9f56d638cf 6cf9b128d3 fa4f922eb0 f3c503e358 … (+5)]
 - /var/home/a/code/amd/amd__mlcflow: 14 commits [ce70e36 49d63e2 a26431e 020fb15 3c75523 f1c3b71 75bfbe3 69fa911 3605d9d b77612f … (+4)]
 - /var/home/a/code/amd/ROCm__TheRock: 13 commits [41be45c92 400a95ded ae212d70d d493dadcd 6ed44dfed 5e8596588 b51175050 74712efa6 ba6f1b2a6 a1448fbfa … (+3)]
+- /var/home/a/code/amd/awdemos/TheRock: 13 commits [41be45c92 400a95ded ae212d70d d493dadcd 6ed44dfed 5e8596588 b51175050 74712efa6 ba6f1b2a6 a1448fbfa … (+3)]
