@@ -3,3 +3,4 @@
 - /var/home/a/code/amd/ROCm__llvm-project: 220 commits [b77c0b1b2c8c f6242fc4b444 fd8ba847a01d 253cde03d901 8e50ac6046b5 0a110d7408a0 5f33e4f07a67 e50f5c25f1c1 5e63f2ce42db 26d1b4f5c0b7 … (+210)]
 - /var/home/a/code/deepseek-harness: 175 commits [47f943859b abe560f81e 8c1e8d9890 f26a6f6cff 124aa5f01a 8a954b2eca 71fa4c50d1 0ae8f27b93 908f1afc42 a41085dfd4 … (+165)]
 - /var/home/a/code/amd/ROCm__hrx-system: 87 commits [1647c57bc 4707e0b7e bbdf78256 57fd2af36 959916114 33568a2db 94d45c018 49bf47953 1624c9dff 5e3a657fa … (+77)]
+- /var/home/a/code/amd/ROCm__rocm-systems: 43 commits [0b3b9f6047 2c14562e41 fb6a89235f 91acdd0d07 8217d53f04 a6377f426f f10037c05a ea58096020 391ec91ede 1e0287ee25 … (+33)]
