@@ -5,3 +5,4 @@
 - /var/home/a/code/amd/ROCm__rocm-systems: 42 commits [f2e878694e 05cfd8f59c 744ae07898 f8f125e235 bea7ac8937 057346887a 7f71be9f32 c1dba564e7 f2e02494ce ea99a0e347 … (+32)]
 - /var/home/a/code/rocm-systems-audit: 42 commits [f2e878694e 05cfd8f59c 744ae07898 f8f125e235 bea7ac8937 057346887a 7f71be9f32 c1dba564e7 f2e02494ce ea99a0e347 … (+32)]
 - /var/home/a/code/amd/ROCm__rocm-spack-packages: 35 commits [c688baf0d0 c61cfa7fb4 1605ae7c65 3456594a35 a3b5cf3694 1dcda56603 545280360a fabcd0b5be d21101654d 5a98e6af62 … (+25)]
+- /var/home/a/code/amd/ROCm__jax: 26 commits [c853a78ede f85044767d c3fb298665 868f6cb2e2 afc6dbe6c9 c2f646198b 940f0524d7 49f848dd85 dba480d68e 32d906e95c … (+16)]
