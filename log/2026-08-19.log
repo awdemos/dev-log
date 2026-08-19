@@ -10,3 +10,4 @@
 - /var/home/a/code/amd/amd__HPCTrainingDock: 20 commits [507ef41 8a2e711 078c793 90469c9 ede97ef 119b8df aa13f9f 2ba5e63 5704c87 397f05a … (+10)]
 - /var/home/a/code/nvidia-sweep: 18 commits [4922a4a 8f993c6 02c45eb 3b6adf3 c514979 edba15e 67b8937 46994b2 d6cfca0 4409c74 … (+8)]
 - /var/home/a/code/amd/ROCm__jax: 15 commits [4b48cd48fe 461702c3ed cc4c22439f d572293b58 2f420124f5 ccbd86114d 74b00ca0af 5e59322ca2 eca7a3e0c5 75e3d63235 … (+5)]
+- /var/home/a/code/amd/ROCm__rocm-spack-packages: 13 commits [7bad9eef53 14345073af 44ab024161 7abb18a49c 04d8715cda 124577928e fe28799794 479bf1b4ee e407bbac80 70230bda9f … (+3)]
